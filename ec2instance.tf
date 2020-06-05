@@ -1,4 +1,4 @@
-rovider "aws" {
+provider "aws" {
   region     = "us-west-2"
  access_key = "AKIA3FRW5ZXDE5VYNKOW"
   secret_key = "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"
